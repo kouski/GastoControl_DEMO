@@ -1,0 +1,5 @@
+{
+  "name": "GastoControl - Demo local",
+  "description": "Demo ficticia offline de gestión de gastos de personal y anticipos. No requiere APIs ni datos externos.",
+  "requestFramePermissions": []
+}
